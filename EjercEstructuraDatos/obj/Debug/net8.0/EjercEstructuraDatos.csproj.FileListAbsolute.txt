@@ -1,0 +1,14 @@
+C:\Users\brand\Desktop\EjercEstructuraDatos\bin\Debug\net8.0\EjercEstructuraDatos.exe
+C:\Users\brand\Desktop\EjercEstructuraDatos\bin\Debug\net8.0\EjercEstructuraDatos.deps.json
+C:\Users\brand\Desktop\EjercEstructuraDatos\bin\Debug\net8.0\EjercEstructuraDatos.runtimeconfig.json
+C:\Users\brand\Desktop\EjercEstructuraDatos\bin\Debug\net8.0\EjercEstructuraDatos.dll
+C:\Users\brand\Desktop\EjercEstructuraDatos\bin\Debug\net8.0\EjercEstructuraDatos.pdb
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.AssemblyInfo.cs
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.dll
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\refint\EjercEstructuraDatos.dll
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.pdb
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\EjercEstructuraDatos.genruntimeconfig.cache
+C:\Users\brand\Desktop\EjercEstructuraDatos\obj\Debug\net8.0\ref\EjercEstructuraDatos.dll
